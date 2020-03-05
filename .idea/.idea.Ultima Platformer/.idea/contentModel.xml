@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity projects 2020\Ultima Platformer\Ultima Platformer" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DashSkill.cs" t="Include" />
+        <e p="Floor.cs" t="Include" />
+        <e p="HealthUI.cs" t="Include" />
+        <e p="Ladder.cs" t="Include" />
+        <e p="Lava shader" t="Include">
+          <e p="Lava.shader" t="Include" />
+        </e>
+        <e p="Lava.cs" t="Include" />
+        <e p="LevelCounter.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="CustomInputs.cs" t="Include" />
+          <e p="DampCamera2D.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemyManager.cs" t="Include" />
+          <e p="GameEvent.cs" t="Include" />
+          <e p="GameEventListener.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="GameQuitter.cs" t="Include" />
+          <e p="Gun.cs" t="Include" />
+          <e p="LootBox.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Sword.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
+          <e p="WeaponManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Ultima Platformer.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\ekolo\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ekolo\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Ultima Platformer.417797752.00" t="ExcludeRecursive" />
+  </component>
+</project>
